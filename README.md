@@ -110,3 +110,7 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+### Motivation for delete function
+
+I modeled it to be similar to the Add button, sharing the same `Button.tsx` component but takes a different parameter to be a Delete button instead.
