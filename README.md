@@ -98,7 +98,7 @@ First, download the dependencies:
 npm install
 ```
 
-First, run the development server:
+Then, run the development server:
 
 ```bash
 npm run dev
@@ -108,4 +108,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### Motivation for delete function
 
-I modeled it to be similar to the Add button, sharing the same `Button.tsx` component but takes a different parameter to be a Delete button instead.
+I modeled it to be similar to the Add button, sharing the same `Button.tsx` component but takes a different parameter to be a Delete button instead. This allows me to standardise my buttons across the application.
