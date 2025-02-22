@@ -82,7 +82,7 @@ const UserList = () => {
 };
 
 ReactDOM.render(<UserList />, document.getElementById('root'));
-``
+```
 
 ## Case Study 3
 
