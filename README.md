@@ -86,6 +86,8 @@ ReactDOM.render(<UserList />, document.getElementById('root'));
 
 ## Case Study 3
 
+### Running the app
+
 ```bash
 cd namelist-web-app
 ```
