@@ -1,0 +1,1 @@
+export const TEXT_STYLES = "font-sans text-[12px] font-normal text-black";
